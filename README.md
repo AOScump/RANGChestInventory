@@ -1,4 +1,4 @@
-# ElevateChestInventory
+# RANGChestInventory
 
 1. Download the latest [release](https://github.com/AOScump/ElevateChestInventory/releases/)
 2. Unzip the RAR
